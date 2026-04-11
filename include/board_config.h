@@ -33,3 +33,6 @@
 
 #endif  // BOARD_CONFIG_H
 
+// why ifndef is used explained over here https://stackoverflow.com/questions/1653958/why-are-ifndef-and-define-used-in-c-header-files
+
+
