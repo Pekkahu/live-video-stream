@@ -1,3 +1,6 @@
+| LED blinking and it's light intensity control is remaining to be programmed |
+
+
 # ESP32-CAM Live Video Stream
 ### Error Documentation & Fix Log
 > PlatformIO + Arduino IDE — AI Thinker ESP32-CAM + OV3660
