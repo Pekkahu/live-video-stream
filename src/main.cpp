@@ -17,7 +17,7 @@ void setupLedFlash();
 
 void setup() {
   Serial.begin(115200);
-  Serial.setDebugOutput(true);
+  Serial.setDebugOutput(true);// It allows internal SDK messages (such as WiFi connection status, DHCP events, and system errors) to be printed to the Serial Monitor.
   Serial.println();
 
   camera_config_t config;
